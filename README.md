@@ -75,3 +75,9 @@ File names must follow the format `*.skin.png`, where `*` can be anything.
 All squares (minus the unused and Eye & Pupil ones) must be a flat, solid color.  
 You cannot have a custom design, unfortunately. The player model's UV wrapping is far too small to allow any intricate designs.  
 The only square that allows for a custom design is Eye & Pupil.
+
+#### Examples
+
+The following is a skin with a custom eye design. Note how all other squares are completely filled. PNG files mainly serve as a color palette, with the sole exception being the eye.
+
+![riko skin](https://github.com/nyawoi/PlayerCustomization/assets/106277673/455926ef-9550-43bb-8924-eaa23a783cb8)
